@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 
-class Prepend(object):
-    
-    
-    def __init__(self, param1):
-        self.start = param1
-        
-    
-    def write(self, s):
-        print(f"{self.start}{s}")
+
 
 # class MyClass(object):
 #     """Documentation string of the class"""
